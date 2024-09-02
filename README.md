@@ -1,4 +1,4 @@
-# earthquake_damage
+# Earthquake Damage in Nepal
 Nepal is prone to earthquakes, which can cause severe damage to buildings and infrastructure. Accurate prediction of earthquake damage can help in disaster preparedness and reduce the impact of future earthquakes.
 
 This project focuses on the Gorkha earthquake in Nepal. It aims to analyze earthquake data and create a model to predict the level of building damage. The project is divided into three main tasks:
