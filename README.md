@@ -1,6 +1,7 @@
-# Earthquake Damage in Nepal
+# Acknowledgement
 Firstly, I’d like to acknowledge the contributions of my team members, who collaborated with me on this project and played a crucial role in its success.
 
+# Earthquake Damage in Nepal
 Nepal is prone to earthquakes, which can cause severe damage to buildings and infrastructure. Accurate prediction of earthquake damage can help in disaster preparedness and reduce the impact of future earthquakes.
 
 This project focuses on the Gorkha earthquake in Nepal. It aims to analyze earthquake data and create a model to predict the level of building damage. This project is divided into three main tasks:
@@ -13,4 +14,4 @@ This project focuses on the Gorkha earthquake in Nepal. It aims to analyze earth
 
 
 
-I’d like to acknowledge the contributions of my team members, who collaborated with me on this project and played a crucial role in its success.
+
